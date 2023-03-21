@@ -1,6 +1,7 @@
 import sympy
 x, y = sympy.symbols('x y')
 
+#Encontrar a equação da reta com as coordenadas dela
 
 #INPUT
 #Value for X, to calculate the Y value in function of X
